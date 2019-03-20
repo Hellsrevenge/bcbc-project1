@@ -1,7 +1,7 @@
 
 config = {
   google_map: {
-      key: "AIzaSyDXnK4wJhL9hWZZNeG2Ykh6R9Lsq5YTGAk"
+      key: "AIzaSyABcTbDcTLtbui6ky6rQ1FUxCH3qAPcmYw"
   },
   firebase:  {
       apiKey: "AIzaSyBbKN_TW5CuyC1tyDa_TZZpb_b6jDj5x8I",
